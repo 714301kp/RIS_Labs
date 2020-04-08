@@ -1,0 +1,16 @@
+sudo orbd - ORBInitialPort 1050
+
+java HelloServer - ORBInitialPort 1050 - ORBInitialHost localhost
+
+java HelloClient - ORBInitialPort 1050 - ORBInitialHost localhost
+
+
+Компаиляция:
+
+idlj -fall Hello.idl
+javac -Xlint:unchecked *.java HelloApp/*.java
+
+idlj -fall Hello.idl && javac *.java HelloApp/*.java
+
+
+https://examples.javacodegeeks.com/core-java/crypto/encrypt-decrypt-string-with-des/

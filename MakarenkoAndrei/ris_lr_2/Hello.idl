@@ -1,0 +1,17 @@
+module HelloApp {
+  interface Hello {
+    oneway void shutdown();
+  };
+
+  interface CryptSys {
+    string crypt(in string str);
+  };
+
+  interface DecryptSys {
+    string decrypt(in string str);
+  };
+
+  interface BetweenSys {
+    string findMethod(in string user_message);
+  };
+};
