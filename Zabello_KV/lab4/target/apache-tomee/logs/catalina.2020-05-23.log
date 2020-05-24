@@ -1,0 +1,340 @@
+23-May-2020 02:47:49.486 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.30 (8.0.1)
+23-May-2020 02:47:49.488 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Dec 7 2019 16:42:04 UTC
+23-May-2020 02:47:49.488 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.30.0
+23-May-2020 02:47:49.488 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+23-May-2020 02:47:49.489 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+23-May-2020 02:47:49.489 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+23-May-2020 02:47:49.489 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_231\jre
+23-May-2020 02:47:49.489 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_231-b11
+23-May-2020 02:47:49.490 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+23-May-2020 02:47:49.491 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 02:47:49.491 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 02:47:49.565 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+23-May-2020 02:47:49.566 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+23-May-2020 02:47:49.566 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+23-May-2020 02:47:49.566 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+23-May-2020 02:47:49.568 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+23-May-2020 02:47:49.568 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+23-May-2020 02:47:49.568 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=E:\вучоба\РИС\labs\ris4\target\apache-tomee\conf\logging.properties
+23-May-2020 02:47:49.568 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:E:\вучоба\РИС\labs\ris4\target\apache-tomee\lib\openejb-javaagent.jar
+23-May-2020 02:47:49.568 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-May-2020 02:47:49.569 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=E:\вучоба\РИС\labs\ris4\target\apache-tomee\temp
+23-May-2020 02:47:49.569 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 02:47:49.570 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 02:47:49.570 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=E:\вучоба\РИС\labs\ris4\target\apache-tomee\lib
+23-May-2020 02:47:49.570 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+23-May-2020 02:47:49.570 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+23-May-2020 02:47:49.571 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\EmEditor Professional;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.3\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_231\bin;;C:\Program Files\JetBrains\IntelliJ-IDEA-Community-Edition-2019.3.1\bin;;.]
+23-May-2020 02:47:54.538 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8093"]
+23-May-2020 02:47:56.015 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+23-May-2020 02:48:01.398 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+23-May-2020 02:48:01.471 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+23-May-2020 02:48:02.282 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+23-May-2020 02:48:02.285 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+23-May-2020 02:48:02.285 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Sat May 23 02:48:02 MSK 2020
+23-May-2020 02:48:02.285 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+23-May-2020 02:48:02.288 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.1
+23-May-2020 02:48:02.288 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20200107
+23-May-2020 02:48:02.289 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 02:43
+23-May-2020 02:48:02.290 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+23-May-2020 02:48:02.298 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 02:48:02.301 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 02:48:02.314 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@50eac852
+23-May-2020 02:48:02.397 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+23-May-2020 02:48:02.657 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'E:\вучоба\РИС\labs\ris4\target\apache-tomee\conf\tomee.xml'
+23-May-2020 02:48:02.868 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+23-May-2020 02:48:02.875 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+23-May-2020 02:48:02.885 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+23-May-2020 02:48:02.885 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+23-May-2020 02:48:03.119 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+23-May-2020 02:48:05.391 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+23-May-2020 02:48:15.908 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+23-May-2020 02:48:19.423 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+23-May-2020 02:48:20.984 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+23-May-2020 02:48:20.991 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+23-May-2020 02:48:20.991 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+23-May-2020 02:48:20.991 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+23-May-2020 02:48:21.016 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [33 091] milliseconds
+23-May-2020 02:48:21.510 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+23-May-2020 02:48:21.532 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+23-May-2020 02:48:21.738 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+23-May-2020 02:48:21.738 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.30 (8.0.1)]
+23-May-2020 02:48:21.903 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages.war]
+23-May-2020 02:48:21.955 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /messages
+23-May-2020 02:48:22.004 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages.war
+23-May-2020 02:48:23.414 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages
+23-May-2020 02:48:23.418 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+23-May-2020 02:48:25.641 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages
+23-May-2020 02:48:26.421 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb MessageBean: EjbDeployment(deployment-id=MessageBean)
+23-May-2020 02:48:26.448 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default MDB Container, type=Container, provider-id=Default MDB Container)
+23-May-2020 02:48:26.450 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean MessageBean: Container(type=MESSAGE, id=Default MDB Container)
+23-May-2020 02:48:26.457 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default JMS Resource Adapter, type=Resource, provider-id=Default JMS Resource Adapter)
+23-May-2020 02:48:26.462 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Unmanaged JDBC Database, type=Resource, provider-id=Default Unmanaged JDBC Database)
+23-May-2020 02:48:26.463 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default Unmanaged JDBC Database)
+23-May-2020 02:48:28.156 INFO [main] org.hsqldb.persist.Logger.logInfoEvent Checkpoint start
+23-May-2020 02:48:28.158 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose start
+23-May-2020 02:48:28.291 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose end
+23-May-2020 02:48:28.295 INFO [main] org.hsqldb.persist.Logger.logInfoEvent Checkpoint end - txts: 1
+23-May-2020 02:48:28.430 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default JMS Resource Adapter)
+23-May-2020 02:48:28.652 INFO [main] org.apache.openejb.assembler.classic.Assembler.doCreateResource Thread pool size for 'Default JMS Resource Adapter' is (30)
+23-May-2020 02:48:28.731 INFO [main] org.apache.openejb.resource.activemq.ActiveMQ5Factory.createBroker ActiveMQ5Factory creating broker
+23-May-2020 02:48:32.647 INFO [main] org.apache.activemq.broker.BrokerService.<clinit> Loaded the Bouncy Castle security provider.
+23-May-2020 02:48:33.899 INFO [main] org.apache.openejb.resource.activemq.ActiveMQ5Factory.createBroker Using ActiveMQ startup timeout of 10000ms
+23-May-2020 02:48:33.901 INFO [ActiveMQFactory start and checkpoint] org.apache.openejb.resource.activemq.ActiveMQ5Factory$1.run Starting ActiveMQ BrokerService
+23-May-2020 02:48:33.927 WARNING [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.checkMemorySystemUsageLimits Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 889 mb - resetting to 70% of maximum available: 622 mb
+23-May-2020 02:48:33.936 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartPersistenceAdapter Using Persistence Adapter: MemoryPersistenceAdapter
+23-May-2020 02:48:34.266 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartBroker Apache ActiveMQ 5.15.10 (localhost, ID:WIN-OR4LCH1956T-1565-1590191313996-0:1) is starting
+23-May-2020 02:48:34.306 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.transport.TransportServerThreadSupport.doStart Listening for connections at: tcp://127.0.0.1:61616
+23-May-2020 02:48:34.307 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.TransportConnector.start Connector tcp://127.0.0.1:61616 started
+23-May-2020 02:48:34.307 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartBroker Apache ActiveMQ 5.15.10 (localhost, ID:WIN-OR4LCH1956T-1565-1590191313996-0:1) started
+23-May-2020 02:48:34.307 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartBroker For help or more information please see: http://activemq.apache.org
+23-May-2020 02:48:34.454 INFO [40] org.apache.openejb.resource.activemq.ActiveMQ5Factory$1.run Starting ActiveMQ checkpoint
+23-May-2020 02:48:34.455 INFO [main] org.apache.openejb.resource.activemq.ActiveMQ5Factory.createBroker ActiveMQ broker started
+23-May-2020 02:48:34.566 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default MDB Container)
+23-May-2020 02:48:34.662 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default JMS Connection Factory, type=Resource, provider-id=Default JMS Connection Factory)
+23-May-2020 02:48:34.663 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'Default JMS Connection Factory' of type 'javax.jms.ConnectionFactory for 'MessageBean'.
+23-May-2020 02:48:34.664 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default JMS Connection Factory)
+23-May-2020 02:48:34.691 INFO [main] org.apache.openejb.assembler.classic.Assembler.doCreateResource Creating ConnectionManager for Resource(id=Default JMS Connection Factory)
+23-May-2020 02:48:34.775 INFO [main] org.apache.geronimo.connector.outbound.GenericConnectionManager$InterceptorsImpl.<init> No runtime TransactionSupport
+23-May-2020 02:48:34.857 INFO [main] org.apache.openejb.config.AutoConfig.processResourceRef Auto-linking resource-ref 'java:comp/env/com.zabello.servlets.MessageServlet/connectionFactory' in bean MessageBean to Resource(id=Default JMS Connection Factory)
+23-May-2020 02:48:34.859 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=jms/Queue, type=Resource, provider-id=Default Queue)
+23-May-2020 02:48:34.862 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'jms/Queue' of type 'javax.jms.Queue for 'MessageBean'.
+23-May-2020 02:48:34.864 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=jms/Queue)
+23-May-2020 02:48:34.936 INFO [main] org.apache.openejb.config.AutoConfig.processResourceEnvRef Auto-linking resource-env-ref 'java:comp/env/com.zabello.servlets.MessageServlet/queue' in bean MessageBean to Resource(id=jms/Queue)
+23-May-2020 02:48:34.937 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+23-May-2020 02:48:34.939 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean messages.Comp605982374: Container(type=MANAGED, id=Default Managed Container)
+23-May-2020 02:48:34.939 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+23-May-2020 02:48:34.995 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory E:\вучоба\РИС\labs\ris4\target\apache-tomee\temp for stateful session passivation
+23-May-2020 02:48:35.053 INFO [main] org.apache.openejb.config.AutoConfig.processResourceRef Auto-linking resource-ref 'java:comp/env/com.zabello.servlets.MessageServlet/connectionFactory' in bean messages.Comp605982374 to Resource(id=Default JMS Connection Factory)
+23-May-2020 02:48:35.053 INFO [main] org.apache.openejb.config.AutoConfig.processResourceEnvRef Auto-linking resource-env-ref 'java:comp/env/com.zabello.servlets.MessageServlet/queue' in bean messages.Comp605982374 to Resource(id=jms/Queue)
+23-May-2020 02:48:35.186 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages" loaded.
+23-May-2020 02:48:35.202 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages
+23-May-2020 02:48:35.615 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=MessageBean) --> Ejb(deployment-id=MessageBean)
+23-May-2020 02:48:35.759 INFO [main] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@50eac852
+23-May-2020 02:48:39.047 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+23-May-2020 02:48:39.075 INFO [main] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+23-May-2020 02:48:39.166 INFO [main] org.apache.openejb.cdi.CdiScanner.handleBda Using annotated mode for file:/E:/%D0%B2%D1%83%D1%87%D0%BE%D0%B1%D0%B0/%D0%A0%D0%98%D0%A1/labs/ris4/target/apache-tomee/webapps/messages/WEB-INF/classes/ looking all classes to find CDI beans, maybe think to add a beans.xml if not there or add the jar to exclusions.list
+23-May-2020 02:48:56.904 INFO [main] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+23-May-2020 02:48:57.079 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 18032 ms.
+23-May-2020 02:48:59.536 INFO [main] org.apache.activemq.ra.ActiveMQEndpointWorker.start Starting
+23-May-2020 02:48:59.690 INFO [main] org.apache.openejb.core.mdb.MdbContainer$MdbActivationContext.start Activated endpoint for MessageBean
+23-May-2020 02:48:59.691 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@6e285f0e
+23-May-2020 02:48:59.691 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@60efbcbb
+23-May-2020 02:48:59.691 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@64d0347e
+23-May-2020 02:48:59.691 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.activemq.ra.ActiveMQEndpointWorker$1.run Establishing connection to broker [vm://localhost?waitForStart=20000&async=true]
+23-May-2020 02:48:59.694 INFO [main] org.apache.openejb.core.mdb.MdbContainer.addJMxControl Deployed MDB control for MessageBean on default:J2EEServer=openejb,J2EEApplication=<empty>,EJBModule=file_/E_/вучоба/РИС/labs/ris4/target/apache-tomee/webapps/messages/,StatelessSessionBean=MessageBean,j2eeType=control,name=MessageBean
+23-May-2020 02:48:59.695 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=MessageBean, ejb-name=MessageBean, container=Default MDB Container)
+23-May-2020 02:48:59.696 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=MessageBean, ejb-name=MessageBean, container=Default MDB Container)
+23-May-2020 02:48:59.810 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages)
+23-May-2020 02:48:59.998 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.activemq.broker.TransportConnector.start Connector vm://localhost started
+23-May-2020 02:49:00.628 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.activemq.ra.ActiveMQEndpointWorker$1.run Successfully established connection to broker [vm://localhost?waitForStart=20000&async=true]
+23-May-2020 02:49:03.084 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Using org.apache.myfaces.ee.MyFacesContainerInitializer
+23-May-2020 02:49:05.904 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Added FacesServlet with mappings=[/faces/*, *.jsf, *.faces, *.xhtml]
+23-May-2020 02:49:06.882 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-May-2020 02:49:07.620 INFO [main] org.apache.tomee.myfaces.TomEEMyFacesContainerInitializer.addListener Installing <listener>org.apache.myfaces.webapp.StartupServletContextListener</listener>
+23-May-2020 02:49:13.429 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getStandardFacesConfig Reading standard config META-INF/standard-faces-config.xml
+23-May-2020 02:49:21.167 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/openwebbeans-el22-2.0.12.jar!/META-INF/faces-config.xml
+23-May-2020 02:49:21.173 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/openwebbeans-jsf-2.0.12.jar!/META-INF/faces-config.xml
+23-May-2020 02:49:22.940 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-api' was found in version '2.3.6' from path 'file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/myfaces-api-2.3.6.jar'
+23-May-2020 02:49:22.940 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-impl' was found in version '2.3.6' from path 'file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/myfaces-impl-2.3.6.jar'
+23-May-2020 02:49:23.544 INFO [main] org.apache.myfaces.util.ExternalSpecifications.isCDIAvailable MyFaces CDI support enabled
+23-May-2020 02:49:23.551 INFO [main] org.apache.myfaces.spi.impl.DefaultInjectionProviderFactory.getInjectionProvider Using InjectionProvider org.apache.myfaces.spi.impl.CDIAnnotationDelegateInjectionProvider
+23-May-2020 02:49:26.698 INFO [main] org.apache.myfaces.util.ExternalSpecifications.isBeanValidationAvailable MyFaces Bean Validation support enabled
+23-May-2020 02:49:28.226 INFO [main] org.apache.myfaces.application.ApplicationImpl.getProjectStage Couldn't discover the current project stage, using Production
+23-May-2020 02:49:28.259 INFO [main] org.apache.myfaces.config.FacesConfigurator.handleSerialFactory Serialization provider : class org.apache.myfaces.shared_impl.util.serial.DefaultSerialFactory
+23-May-2020 02:49:28.301 INFO [main] org.apache.myfaces.config.annotation.DefaultLifecycleProviderFactory.getLifecycleProvider Using LifecycleProvider org.apache.myfaces.config.annotation.Tomcat7AnnotationLifecycleProvider
+23-May-2020 02:49:37.404 INFO [main] org.apache.myfaces.webapp.AbstractFacesInitializer.initFaces ServletContext initialized.
+23-May-2020 02:49:37.719 INFO [main] org.apache.myfaces.view.facelets.ViewPoolProcessor.initialize org.apache.myfaces.CACHE_EL_EXPRESSIONS web config parameter is set to "noCache". To enable view pooling this param must be set to "alwaysRecompile". View Pooling disabled.
+23-May-2020 02:49:38.035 INFO [main] org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized MyFaces Core has started, it took [30180] ms.
+23-May-2020 02:49:38.514 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages.war] has finished in [76 612] ms
+23-May-2020 02:49:38.782 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+23-May-2020 02:49:38.783 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+23-May-2020 02:49:38.783 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+23-May-2020 02:49:38.783 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesThreadLocals] to [true] as the property does not exist.
+23-May-2020 02:49:38.959 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8093"]
+23-May-2020 02:49:38.990 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["ajp-nio-8009"]
+23-May-2020 02:49:39.005 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [77 988] milliseconds
+23-May-2020 03:15:03.031 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.30 (8.0.1)
+23-May-2020 03:15:03.035 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Dec 7 2019 16:42:04 UTC
+23-May-2020 03:15:03.035 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.30.0
+23-May-2020 03:15:03.035 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+23-May-2020 03:15:03.036 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+23-May-2020 03:15:03.036 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+23-May-2020 03:15:03.036 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_231\jre
+23-May-2020 03:15:03.037 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_231-b11
+23-May-2020 03:15:03.037 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+23-May-2020 03:15:03.037 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 03:15:03.038 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 03:15:03.375 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+23-May-2020 03:15:03.376 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+23-May-2020 03:15:03.376 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+23-May-2020 03:15:03.376 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+23-May-2020 03:15:03.377 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+23-May-2020 03:15:03.377 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+23-May-2020 03:15:03.377 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=E:\вучоба\РИС\labs\ris4\target\apache-tomee\conf\logging.properties
+23-May-2020 03:15:03.378 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:E:\вучоба\РИС\labs\ris4\target\apache-tomee\lib\openejb-javaagent.jar
+23-May-2020 03:15:03.378 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-May-2020 03:15:03.378 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=E:\вучоба\РИС\labs\ris4\target\apache-tomee\temp
+23-May-2020 03:15:03.378 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 03:15:03.378 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 03:15:03.378 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=E:\вучоба\РИС\labs\ris4\target\apache-tomee\lib
+23-May-2020 03:15:03.379 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+23-May-2020 03:15:03.379 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+23-May-2020 03:15:03.379 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\EmEditor Professional;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.3\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_231\bin;;C:\Program Files\JetBrains\IntelliJ-IDEA-Community-Edition-2019.3.1\bin;;.]
+23-May-2020 03:15:10.418 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8093"]
+23-May-2020 03:15:12.230 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+23-May-2020 03:15:16.225 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+23-May-2020 03:15:16.436 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+23-May-2020 03:15:17.610 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+23-May-2020 03:15:17.611 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+23-May-2020 03:15:17.611 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Sat May 23 03:15:17 MSK 2020
+23-May-2020 03:15:17.611 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+23-May-2020 03:15:17.611 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.1
+23-May-2020 03:15:17.612 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20200107
+23-May-2020 03:15:17.612 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 02:43
+23-May-2020 03:15:17.613 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+23-May-2020 03:15:17.613 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 03:15:17.614 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = E:\вучоба\РИС\labs\ris4\target\apache-tomee
+23-May-2020 03:15:17.623 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@50eac852
+23-May-2020 03:15:17.666 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+23-May-2020 03:15:18.338 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'E:\вучоба\РИС\labs\ris4\target\apache-tomee\conf\tomee.xml'
+23-May-2020 03:15:18.665 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+23-May-2020 03:15:18.822 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+23-May-2020 03:15:18.831 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+23-May-2020 03:15:18.832 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+23-May-2020 03:15:19.039 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+23-May-2020 03:15:20.423 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+23-May-2020 03:15:24.047 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+23-May-2020 03:15:29.968 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+23-May-2020 03:15:30.523 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+23-May-2020 03:15:30.524 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+23-May-2020 03:15:30.524 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+23-May-2020 03:15:30.524 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+23-May-2020 03:15:30.545 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [31 207] milliseconds
+23-May-2020 03:15:31.444 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+23-May-2020 03:15:31.505 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+23-May-2020 03:15:31.713 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+23-May-2020 03:15:31.718 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.30 (8.0.1)]
+23-May-2020 03:15:32.528 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages.war]
+23-May-2020 03:15:32.658 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /messages
+23-May-2020 03:15:32.765 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages.war
+23-May-2020 03:15:35.208 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages
+23-May-2020 03:15:35.211 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+23-May-2020 03:15:43.689 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages
+23-May-2020 03:15:48.400 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb MessageBean: EjbDeployment(deployment-id=MessageBean)
+23-May-2020 03:15:48.508 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default MDB Container, type=Container, provider-id=Default MDB Container)
+23-May-2020 03:15:48.509 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean MessageBean: Container(type=MESSAGE, id=Default MDB Container)
+23-May-2020 03:15:48.515 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default JMS Resource Adapter, type=Resource, provider-id=Default JMS Resource Adapter)
+23-May-2020 03:15:48.519 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Unmanaged JDBC Database, type=Resource, provider-id=Default Unmanaged JDBC Database)
+23-May-2020 03:15:48.520 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default Unmanaged JDBC Database)
+23-May-2020 03:15:51.133 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose start
+23-May-2020 03:15:51.427 INFO [main] org.hsqldb.persist.Logger.logInfoEvent checkpointClose end
+23-May-2020 03:15:51.642 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default JMS Resource Adapter)
+23-May-2020 03:15:52.000 INFO [main] org.apache.openejb.assembler.classic.Assembler.doCreateResource Thread pool size for 'Default JMS Resource Adapter' is (30)
+23-May-2020 03:15:52.143 INFO [main] org.apache.openejb.resource.activemq.ActiveMQ5Factory.createBroker ActiveMQ5Factory creating broker
+23-May-2020 03:15:53.774 INFO [main] org.apache.activemq.broker.BrokerService.<clinit> Loaded the Bouncy Castle security provider.
+23-May-2020 03:15:54.242 INFO [main] org.apache.openejb.resource.activemq.ActiveMQ5Factory.createBroker Using ActiveMQ startup timeout of 10000ms
+23-May-2020 03:15:54.245 INFO [ActiveMQFactory start and checkpoint] org.apache.openejb.resource.activemq.ActiveMQ5Factory$1.run Starting ActiveMQ BrokerService
+23-May-2020 03:15:54.268 WARNING [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.checkMemorySystemUsageLimits Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 889 mb - resetting to 70% of maximum available: 622 mb
+23-May-2020 03:15:54.277 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartPersistenceAdapter Using Persistence Adapter: MemoryPersistenceAdapter
+23-May-2020 03:15:54.800 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartBroker Apache ActiveMQ 5.15.10 (localhost, ID:WIN-OR4LCH1956T-50261-1590192954446-0:1) is starting
+23-May-2020 03:15:54.877 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.transport.TransportServerThreadSupport.doStart Listening for connections at: tcp://127.0.0.1:61616
+23-May-2020 03:15:54.878 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.TransportConnector.start Connector tcp://127.0.0.1:61616 started
+23-May-2020 03:15:54.878 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartBroker Apache ActiveMQ 5.15.10 (localhost, ID:WIN-OR4LCH1956T-50261-1590192954446-0:1) started
+23-May-2020 03:15:54.878 INFO [ActiveMQFactory start and checkpoint] org.apache.activemq.broker.BrokerService.doStartBroker For help or more information please see: http://activemq.apache.org
+23-May-2020 03:15:54.983 INFO [40] org.apache.openejb.resource.activemq.ActiveMQ5Factory$1.run Starting ActiveMQ checkpoint
+23-May-2020 03:15:54.983 INFO [main] org.apache.openejb.resource.activemq.ActiveMQ5Factory.createBroker ActiveMQ broker started
+23-May-2020 03:15:55.059 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default MDB Container)
+23-May-2020 03:15:55.154 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default JMS Connection Factory, type=Resource, provider-id=Default JMS Connection Factory)
+23-May-2020 03:15:55.154 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'Default JMS Connection Factory' of type 'javax.jms.ConnectionFactory for 'MessageBean'.
+23-May-2020 03:15:55.155 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=Default JMS Connection Factory)
+23-May-2020 03:15:55.222 INFO [main] org.apache.openejb.assembler.classic.Assembler.doCreateResource Creating ConnectionManager for Resource(id=Default JMS Connection Factory)
+23-May-2020 03:15:55.277 INFO [main] org.apache.geronimo.connector.outbound.GenericConnectionManager$InterceptorsImpl.<init> No runtime TransactionSupport
+23-May-2020 03:15:55.360 INFO [main] org.apache.openejb.config.AutoConfig.processResourceRef Auto-linking resource-ref 'java:comp/env/com.zabello.servlets.MessageServlet/connectionFactory' in bean MessageBean to Resource(id=Default JMS Connection Factory)
+23-May-2020 03:15:55.362 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=jms/Queue, type=Resource, provider-id=Default Queue)
+23-May-2020 03:15:55.363 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'jms/Queue' of type 'javax.jms.Queue for 'MessageBean'.
+23-May-2020 03:15:55.363 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=jms/Queue)
+23-May-2020 03:15:55.426 INFO [main] org.apache.openejb.config.AutoConfig.processResourceEnvRef Auto-linking resource-env-ref 'java:comp/env/com.zabello.servlets.MessageServlet/queue' in bean MessageBean to Resource(id=jms/Queue)
+23-May-2020 03:15:55.430 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+23-May-2020 03:15:55.432 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean messages.Comp835773569: Container(type=MANAGED, id=Default Managed Container)
+23-May-2020 03:15:55.432 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+23-May-2020 03:15:55.562 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory E:\вучоба\РИС\labs\ris4\target\apache-tomee\temp for stateful session passivation
+23-May-2020 03:15:55.653 INFO [main] org.apache.openejb.config.AutoConfig.processResourceRef Auto-linking resource-ref 'java:comp/env/com.zabello.servlets.MessageServlet/connectionFactory' in bean messages.Comp835773569 to Resource(id=Default JMS Connection Factory)
+23-May-2020 03:15:55.653 INFO [main] org.apache.openejb.config.AutoConfig.processResourceEnvRef Auto-linking resource-env-ref 'java:comp/env/com.zabello.servlets.MessageServlet/queue' in bean messages.Comp835773569 to Resource(id=jms/Queue)
+23-May-2020 03:15:55.803 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages" loaded.
+23-May-2020 03:15:55.830 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages
+23-May-2020 03:15:56.239 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=MessageBean) --> Ejb(deployment-id=MessageBean)
+23-May-2020 03:15:56.333 INFO [main] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@50eac852
+23-May-2020 03:15:57.129 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+23-May-2020 03:15:57.171 INFO [main] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+23-May-2020 03:15:57.238 INFO [main] org.apache.openejb.cdi.CdiScanner.handleBda Using annotated mode for file:/E:/%D0%B2%D1%83%D1%87%D0%BE%D0%B1%D0%B0/%D0%A0%D0%98%D0%A1/labs/ris4/target/apache-tomee/webapps/messages/WEB-INF/classes/ looking all classes to find CDI beans, maybe think to add a beans.xml if not there or add the jar to exclusions.list
+23-May-2020 03:16:01.830 INFO [main] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+23-May-2020 03:16:01.988 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 4859 ms.
+23-May-2020 03:16:04.069 INFO [main] org.apache.activemq.ra.ActiveMQEndpointWorker.start Starting
+23-May-2020 03:16:04.107 INFO [main] org.apache.openejb.core.mdb.MdbContainer$MdbActivationContext.start Activated endpoint for MessageBean
+23-May-2020 03:16:04.108 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:16:04.108 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:16:04.108 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:16:04.109 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.activemq.ra.ActiveMQEndpointWorker$1.run Establishing connection to broker [vm://localhost?waitForStart=20000&async=true]
+23-May-2020 03:16:04.140 INFO [main] org.apache.openejb.core.mdb.MdbContainer.addJMxControl Deployed MDB control for MessageBean on default:J2EEServer=openejb,J2EEApplication=<empty>,EJBModule=file_/E_/вучоба/РИС/labs/ris4/target/apache-tomee/webapps/messages/,StatelessSessionBean=MessageBean,j2eeType=control,name=MessageBean
+23-May-2020 03:16:04.141 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=MessageBean, ejb-name=MessageBean, container=Default MDB Container)
+23-May-2020 03:16:04.142 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=MessageBean, ejb-name=MessageBean, container=Default MDB Container)
+23-May-2020 03:16:04.175 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages)
+23-May-2020 03:16:04.310 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.activemq.broker.TransportConnector.start Connector vm://localhost started
+23-May-2020 03:16:04.587 INFO [Default JMS Resource Adapter-worker- - 1] org.apache.activemq.ra.ActiveMQEndpointWorker$1.run Successfully established connection to broker [vm://localhost?waitForStart=20000&async=true]
+23-May-2020 03:16:05.545 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Using org.apache.myfaces.ee.MyFacesContainerInitializer
+23-May-2020 03:16:05.785 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Added FacesServlet with mappings=[/faces/*, *.jsf, *.faces, *.xhtml]
+23-May-2020 03:16:06.171 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-May-2020 03:16:06.233 INFO [main] org.apache.tomee.myfaces.TomEEMyFacesContainerInitializer.addListener Installing <listener>org.apache.myfaces.webapp.StartupServletContextListener</listener>
+23-May-2020 03:16:06.900 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getStandardFacesConfig Reading standard config META-INF/standard-faces-config.xml
+23-May-2020 03:16:08.381 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/openwebbeans-el22-2.0.12.jar!/META-INF/faces-config.xml
+23-May-2020 03:16:08.387 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/openwebbeans-jsf-2.0.12.jar!/META-INF/faces-config.xml
+23-May-2020 03:16:09.740 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-api' was found in version '2.3.6' from path 'file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/myfaces-api-2.3.6.jar'
+23-May-2020 03:16:09.740 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-impl' was found in version '2.3.6' from path 'file:/E:/вучоба/РИС/labs/ris4/target/apache-tomee/lib/myfaces-impl-2.3.6.jar'
+23-May-2020 03:16:10.040 INFO [main] org.apache.myfaces.util.ExternalSpecifications.isCDIAvailable MyFaces CDI support enabled
+23-May-2020 03:16:10.048 INFO [main] org.apache.myfaces.spi.impl.DefaultInjectionProviderFactory.getInjectionProvider Using InjectionProvider org.apache.myfaces.spi.impl.CDIAnnotationDelegateInjectionProvider
+23-May-2020 03:16:10.537 INFO [main] org.apache.myfaces.util.ExternalSpecifications.isBeanValidationAvailable MyFaces Bean Validation support enabled
+23-May-2020 03:16:10.811 INFO [main] org.apache.myfaces.application.ApplicationImpl.getProjectStage Couldn't discover the current project stage, using Production
+23-May-2020 03:16:10.818 INFO [main] org.apache.myfaces.config.FacesConfigurator.handleSerialFactory Serialization provider : class org.apache.myfaces.shared_impl.util.serial.DefaultSerialFactory
+23-May-2020 03:16:10.855 INFO [main] org.apache.myfaces.config.annotation.DefaultLifecycleProviderFactory.getLifecycleProvider Using LifecycleProvider org.apache.myfaces.config.annotation.Tomcat7AnnotationLifecycleProvider
+23-May-2020 03:16:15.184 INFO [main] org.apache.myfaces.webapp.AbstractFacesInitializer.initFaces ServletContext initialized.
+23-May-2020 03:16:15.228 INFO [main] org.apache.myfaces.view.facelets.ViewPoolProcessor.initialize org.apache.myfaces.CACHE_EL_EXPRESSIONS web config parameter is set to "noCache". To enable view pooling this param must be set to "alwaysRecompile". View Pooling disabled.
+23-May-2020 03:16:15.360 INFO [main] org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized MyFaces Core has started, it took [9083] ms.
+23-May-2020 03:16:15.681 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [E:\вучоба\РИС\labs\ris4\target\apache-tomee\webapps\messages.war] has finished in [43 154] ms
+23-May-2020 03:16:15.738 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+23-May-2020 03:16:15.739 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+23-May-2020 03:16:15.739 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+23-May-2020 03:16:15.740 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesThreadLocals] to [true] as the property does not exist.
+23-May-2020 03:16:15.823 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8093"]
+23-May-2020 03:16:15.859 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["ajp-nio-8009"]
+23-May-2020 03:16:15.871 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [45 326] milliseconds
+23-May-2020 03:22:57.252 INFO [Default JMS Resource Adapter-worker- - 2] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:22:57.252 INFO [Default JMS Resource Adapter-worker- - 2] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:22:57.252 INFO [Default JMS Resource Adapter-worker- - 2] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:23:06.506 INFO [Default JMS Resource Adapter-worker- - 3] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:23:06.507 INFO [Default JMS Resource Adapter-worker- - 3] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:23:06.507 INFO [Default JMS Resource Adapter-worker- - 3] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:24:10.668 INFO [Default JMS Resource Adapter-worker- - 4] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:24:10.668 INFO [Default JMS Resource Adapter-worker- - 4] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:24:10.669 INFO [Default JMS Resource Adapter-worker- - 4] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:36:33.114 INFO [Default JMS Resource Adapter-worker- - 5] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:36:33.116 INFO [Default JMS Resource Adapter-worker- - 5] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:36:33.116 INFO [Default JMS Resource Adapter-worker- - 5] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:36:48.969 INFO [Default JMS Resource Adapter-worker- - 6] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:36:48.969 INFO [Default JMS Resource Adapter-worker- - 6] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:36:48.969 INFO [Default JMS Resource Adapter-worker- - 6] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:38:07.728 INFO [Default JMS Resource Adapter-worker- - 7] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:38:07.728 INFO [Default JMS Resource Adapter-worker- - 7] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:38:07.728 INFO [Default JMS Resource Adapter-worker- - 7] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:38:17.704 INFO [Default JMS Resource Adapter-worker- - 8] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:38:17.705 INFO [Default JMS Resource Adapter-worker- - 8] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:38:17.705 INFO [Default JMS Resource Adapter-worker- - 8] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:42:26.102 INFO [Default JMS Resource Adapter-worker- - 9] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:42:26.102 INFO [Default JMS Resource Adapter-worker- - 9] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:42:26.102 INFO [Default JMS Resource Adapter-worker- - 9] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:42:36.482 INFO [Default JMS Resource Adapter-worker- - 10] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:42:36.483 INFO [Default JMS Resource Adapter-worker- - 10] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:42:36.483 INFO [Default JMS Resource Adapter-worker- - 10] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d
+23-May-2020 03:47:42.271 INFO [Default JMS Resource Adapter-worker- - 11] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.TransactionContextHandler@9d9e2ed
+23-May-2020 03:47:42.271 INFO [Default JMS Resource Adapter-worker- - 11] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.openejb.core.security.SecurityContextHandler@71e0da6
+23-May-2020 03:47:42.271 INFO [Default JMS Resource Adapter-worker- - 11] org.apache.geronimo.connector.work.WorkerContext.run Removing non-required WorkContextHandler with no context: org.apache.geronimo.connector.work.HintsContextHandler@321899d

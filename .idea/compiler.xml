@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ris4" />
         <module name="ris3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ris3" target="1.8" />
+      <module name="ris4" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
