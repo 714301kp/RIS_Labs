@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>LibraryServlet</servlet-name>
-        <servlet-class>com.zabello.sessions.LibraryServlet</servlet-class>
+        <servlet-class>com.aleksandrova.sessions.LibraryServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>LibraryServlet</servlet-name>

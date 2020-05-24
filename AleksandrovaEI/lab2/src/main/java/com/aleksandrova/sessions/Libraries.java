@@ -1,10 +1,8 @@
-package com.zabello.sessions;
+package com.aleksandrova.sessions;
 
-import com.zabello.entities.Library;
+import com.aleksandrova.entities.Library;
 
 import javax.ejb.Singleton;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Arrays;

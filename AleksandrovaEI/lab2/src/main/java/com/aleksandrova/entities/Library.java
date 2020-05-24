@@ -1,4 +1,4 @@
-package com.zabello.entities;
+package com.aleksandrova.entities;
 
 import java.math.BigDecimal;
 import java.util.Objects;

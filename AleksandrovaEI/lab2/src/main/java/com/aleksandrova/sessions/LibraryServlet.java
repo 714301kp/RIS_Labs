@@ -1,6 +1,6 @@
-package com.zabello.sessions;
+package com.aleksandrova.sessions;
 
-import com.zabello.entities.Library;
+import com.aleksandrova.entities.Library;
 
 import javax.ejb.EJB;
 import javax.servlet.ServletException;
@@ -10,7 +10,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.math.BigDecimal;
 import java.util.List;
 
 @WebServlet(urlPatterns = {"/library-servlet"})
