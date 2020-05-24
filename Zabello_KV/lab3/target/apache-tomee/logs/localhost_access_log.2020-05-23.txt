@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:16:33 +0300] "GET /customer/static/customers.html HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:16:34 +0300] "GET /customer/static/style.css HTTP/1.1" 404 758
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:16:34 +0300] "GET /favicon.ico HTTP/1.1" 404 729
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:17:43 +0300] "POST /customer/customers-servlet HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:25:36 +0300] "POST /customer/customers-servlet HTTP/1.1" 200 261
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:30:00 +0300] "GET /customer/static/customers.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:30:00 +0300] "GET /customer/static/style.css HTTP/1.1" 404 758
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:30:23 +0300] "POST /customer/customers-servlet HTTP/1.1" 200 299
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:31:13 +0300] "GET /customer/customers-servlet HTTP/1.1" 405 767
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:31:16 +0300] "GET /customer/static/style.css HTTP/1.1" 404 758
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:31:36 +0300] "GET /customer/static/customers.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:31:36 +0300] "GET /customer/static/style.css HTTP/1.1" 404 758
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:31:56 +0300] "POST /customer/customers-servlet HTTP/1.1" 200 299
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:41:01 +0300] "GET /customer/customers-servlet HTTP/1.1" 405 767
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:41:08 +0300] "GET /customer/static/customers.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:41:08 +0300] "GET /customer/static/style.css HTTP/1.1" 404 758
+0:0:0:0:0:0:0:1 - - [23/May/2020:04:41:58 +0300] "POST /customer/customers-servlet HTTP/1.1" 200 299
