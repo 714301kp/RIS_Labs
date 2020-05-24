@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [24/May/2020:16:18:19 +0300] "GET /tickets/static/tickets.html HTTP/1.1" 200 627
+0:0:0:0:0:0:0:1 - - [24/May/2020:16:18:20 +0300] "GET /tickets/static/style.css HTTP/1.1" 404 757
+0:0:0:0:0:0:0:1 - - [24/May/2020:16:18:20 +0300] "GET /favicon.ico HTTP/1.1" 404 729
+0:0:0:0:0:0:0:1 - - [24/May/2020:16:18:25 +0300] "POST /tickets/ticket-servlet HTTP/1.1" 200 841
+0:0:0:0:0:0:0:1 - - [24/May/2020:16:18:25 +0300] "GET /tickets/style.css HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [24/May/2020:17:06:17 +0300] "POST /tickets/ticket-servlet HTTP/1.1" 200 841
+0:0:0:0:0:0:0:1 - - [24/May/2020:17:06:17 +0300] "GET /tickets/style.css HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [24/May/2020:17:06:20 +0300] "POST /tickets/TicketsServlet HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/May/2020:17:06:30 +0300] "GET /tickets/static/tickets.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/May/2020:17:06:30 +0300] "GET /tickets/static/style.css HTTP/1.1" 404 757

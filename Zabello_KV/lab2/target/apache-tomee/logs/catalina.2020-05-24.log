@@ -1,0 +1,115 @@
+24-May-2020 16:11:08.759 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.30 (8.0.1)
+24-May-2020 16:11:08.761 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Dec 7 2019 16:42:04 UTC
+24-May-2020 16:11:08.761 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.30.0
+24-May-2020 16:11:08.761 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+24-May-2020 16:11:08.761 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+24-May-2020 16:11:08.762 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+24-May-2020 16:11:08.762 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_231\jre
+24-May-2020 16:11:08.762 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_231-b11
+24-May-2020 16:11:08.762 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+24-May-2020 16:11:08.762 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         E:\вучоба\РИС\labs\ris2\target\apache-tomee
+24-May-2020 16:11:08.763 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         E:\вучоба\РИС\labs\ris2\target\apache-tomee
+24-May-2020 16:11:08.770 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+24-May-2020 16:11:08.771 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+24-May-2020 16:11:08.771 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+24-May-2020 16:11:08.771 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+24-May-2020 16:11:08.773 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+24-May-2020 16:11:08.774 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+24-May-2020 16:11:08.774 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=E:\вучоба\РИС\labs\ris2\target\apache-tomee\conf\logging.properties
+24-May-2020 16:11:08.774 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:E:\вучоба\РИС\labs\ris2\target\apache-tomee\lib\openejb-javaagent.jar
+24-May-2020 16:11:08.775 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-May-2020 16:11:08.775 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=E:\вучоба\РИС\labs\ris2\target\apache-tomee\temp
+24-May-2020 16:11:08.775 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=E:\вучоба\РИС\labs\ris2\target\apache-tomee
+24-May-2020 16:11:08.775 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=E:\вучоба\РИС\labs\ris2\target\apache-tomee
+24-May-2020 16:11:08.775 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=E:\вучоба\РИС\labs\ris2\target\apache-tomee\lib
+24-May-2020 16:11:08.775 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+24-May-2020 16:11:08.776 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+24-May-2020 16:11:08.776 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_231\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\EmEditor Professional;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.3\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_231\bin;;C:\Program Files\JetBrains\IntelliJ-IDEA-Community-Edition-2019.3.1\bin;;.]
+24-May-2020 16:11:10.513 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8092"]
+24-May-2020 16:11:11.566 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+24-May-2020 16:11:13.117 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+24-May-2020 16:11:13.157 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+24-May-2020 16:11:13.669 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+24-May-2020 16:11:13.670 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+24-May-2020 16:11:13.671 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Sun May 24 16:11:13 MSK 2020
+24-May-2020 16:11:13.671 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+24-May-2020 16:11:13.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.1
+24-May-2020 16:11:13.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20200107
+24-May-2020 16:11:13.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 02:43
+24-May-2020 16:11:13.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+24-May-2020 16:11:13.672 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = E:\вучоба\РИС\labs\ris2\target\apache-tomee
+24-May-2020 16:11:13.673 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = E:\вучоба\РИС\labs\ris2\target\apache-tomee
+24-May-2020 16:11:13.683 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@50eac852
+24-May-2020 16:11:13.702 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+24-May-2020 16:11:13.967 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'E:\вучоба\РИС\labs\ris2\target\apache-tomee\conf\tomee.xml'
+24-May-2020 16:11:14.178 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+24-May-2020 16:11:14.196 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+24-May-2020 16:11:14.203 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+24-May-2020 16:11:14.203 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+24-May-2020 16:11:14.396 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+24-May-2020 16:11:14.683 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+24-May-2020 16:11:15.487 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+24-May-2020 16:11:16.312 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+24-May-2020 16:11:16.646 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+24-May-2020 16:11:16.647 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+24-May-2020 16:11:16.647 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+24-May-2020 16:11:16.648 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+24-May-2020 16:11:16.667 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [9 196] milliseconds
+24-May-2020 16:11:16.847 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+24-May-2020 16:11:16.862 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+24-May-2020 16:11:16.977 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+24-May-2020 16:11:16.977 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.30 (8.0.1)]
+24-May-2020 16:11:17.077 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets.war]
+24-May-2020 16:11:17.112 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /tickets
+24-May-2020 16:11:17.123 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets.war
+24-May-2020 16:11:19.037 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets
+24-May-2020 16:11:19.040 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+24-May-2020 16:11:21.271 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets
+24-May-2020 16:11:22.016 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb Tickets: EjbDeployment(deployment-id=Tickets)
+24-May-2020 16:11:22.036 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Singleton Container, type=Container, provider-id=Default Singleton Container)
+24-May-2020 16:11:22.038 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean Tickets: Container(type=SINGLETON, id=Default Singleton Container)
+24-May-2020 16:11:22.038 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Singleton Container)
+24-May-2020 16:11:22.145 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+24-May-2020 16:11:22.148 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean tickets.Comp1985938863: Container(type=MANAGED, id=Default Managed Container)
+24-May-2020 16:11:22.149 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+24-May-2020 16:11:22.234 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory E:\вучоба\РИС\labs\ris2\target\apache-tomee\temp for stateful session passivation
+24-May-2020 16:11:22.418 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets" loaded.
+24-May-2020 16:11:22.452 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets
+24-May-2020 16:11:22.807 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=TicketsLocalBean) --> Ejb(deployment-id=Tickets)
+24-May-2020 16:11:22.808 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/tickets/Tickets!com.zabello.sessions.Tickets) --> Ejb(deployment-id=Tickets)
+24-May-2020 16:11:22.811 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/tickets/Tickets) --> Ejb(deployment-id=Tickets)
+24-May-2020 16:11:22.911 INFO [main] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@50eac852
+24-May-2020 16:11:23.582 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+24-May-2020 16:11:23.634 INFO [main] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+24-May-2020 16:11:23.700 INFO [main] org.apache.openejb.cdi.CdiScanner.handleBda Using annotated mode for file:/E:/%D0%B2%D1%83%D1%87%D0%BE%D0%B1%D0%B0/%D0%A0%D0%98%D0%A1/labs/ris2/target/apache-tomee/webapps/tickets/WEB-INF/classes/ looking all classes to find CDI beans, maybe think to add a beans.xml if not there or add the jar to exclusions.list
+24-May-2020 16:11:26.965 INFO [main] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+24-May-2020 16:11:27.041 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 3459 ms.
+24-May-2020 16:11:27.301 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=Tickets, ejb-name=Tickets, container=Default Singleton Container)
+24-May-2020 16:11:27.301 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=Tickets, ejb-name=Tickets, container=Default Singleton Container)
+24-May-2020 16:11:27.328 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets)
+24-May-2020 16:11:28.213 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Using org.apache.myfaces.ee.MyFacesContainerInitializer
+24-May-2020 16:11:28.379 INFO [main] org.apache.myfaces.ee.MyFacesContainerInitializer.onStartup Added FacesServlet with mappings=[/faces/*, *.jsf, *.faces, *.xhtml]
+24-May-2020 16:11:28.591 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-May-2020 16:11:28.646 INFO [main] org.apache.tomee.myfaces.TomEEMyFacesContainerInitializer.addListener Installing <listener>org.apache.myfaces.webapp.StartupServletContextListener</listener>
+24-May-2020 16:11:29.115 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getStandardFacesConfig Reading standard config META-INF/standard-faces-config.xml
+24-May-2020 16:11:30.130 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/E:/вучоба/РИС/labs/ris2/target/apache-tomee/lib/openwebbeans-el22-2.0.12.jar!/META-INF/faces-config.xml
+24-May-2020 16:11:30.135 INFO [main] org.apache.myfaces.config.DefaultFacesConfigurationProvider.getClassloaderFacesConfig Reading config : jar:file:/E:/вучоба/РИС/labs/ris2/target/apache-tomee/lib/openwebbeans-jsf-2.0.12.jar!/META-INF/faces-config.xml
+24-May-2020 16:11:30.979 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-api' was found in version '2.3.6' from path 'file:/E:/вучоба/РИС/labs/ris2/target/apache-tomee/lib/myfaces-api-2.3.6.jar'
+24-May-2020 16:11:30.979 INFO [main] org.apache.myfaces.config.LogMetaInfUtils.logArtifact Artifact 'myfaces-impl' was found in version '2.3.6' from path 'file:/E:/вучоба/РИС/labs/ris2/target/apache-tomee/lib/myfaces-impl-2.3.6.jar'
+24-May-2020 16:11:31.059 INFO [main] org.apache.myfaces.util.ExternalSpecifications.isCDIAvailable MyFaces CDI support enabled
+24-May-2020 16:11:31.065 INFO [main] org.apache.myfaces.spi.impl.DefaultInjectionProviderFactory.getInjectionProvider Using InjectionProvider org.apache.myfaces.spi.impl.CDIAnnotationDelegateInjectionProvider
+24-May-2020 16:11:31.383 INFO [main] org.apache.myfaces.util.ExternalSpecifications.isBeanValidationAvailable MyFaces Bean Validation support enabled
+24-May-2020 16:11:31.555 INFO [main] org.apache.myfaces.application.ApplicationImpl.getProjectStage Couldn't discover the current project stage, using Production
+24-May-2020 16:11:31.559 INFO [main] org.apache.myfaces.config.FacesConfigurator.handleSerialFactory Serialization provider : class org.apache.myfaces.shared_impl.util.serial.DefaultSerialFactory
+24-May-2020 16:11:31.593 INFO [main] org.apache.myfaces.config.annotation.DefaultLifecycleProviderFactory.getLifecycleProvider Using LifecycleProvider org.apache.myfaces.config.annotation.Tomcat7AnnotationLifecycleProvider
+24-May-2020 16:11:33.014 INFO [main] org.apache.myfaces.webapp.AbstractFacesInitializer.initFaces ServletContext initialized.
+24-May-2020 16:11:33.049 INFO [main] org.apache.myfaces.view.facelets.ViewPoolProcessor.initialize org.apache.myfaces.CACHE_EL_EXPRESSIONS web config parameter is set to "noCache". To enable view pooling this param must be set to "alwaysRecompile". View Pooling disabled.
+24-May-2020 16:11:33.157 INFO [main] org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized MyFaces Core has started, it took [4484] ms.
+24-May-2020 16:11:33.367 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [E:\вучоба\РИС\labs\ris2\target\apache-tomee\webapps\tickets.war] has finished in [16 290] ms
+24-May-2020 16:11:33.408 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+24-May-2020 16:11:33.409 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+24-May-2020 16:11:33.410 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesObjectStreamClassCaches] to [true] as the property does not exist.
+24-May-2020 16:11:33.410 INFO [main] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesThreadLocals] to [true] as the property does not exist.
+24-May-2020 16:11:33.464 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8092"]
+24-May-2020 16:11:33.529 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["ajp-nio-8009"]
+24-May-2020 16:11:33.543 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [16 872] milliseconds
