@@ -1,0 +1,10 @@
+Id: 1
+Type: soft
+TrainNumber: 1
+Cost: 100
+Service class: lux
+Id: 2
+Type: soft
+TrainNumber: 1
+Cost: 110
+Service class: lux
