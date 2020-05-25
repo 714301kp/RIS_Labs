@@ -1,0 +1,15 @@
+javac -d destDir Hello.java Server.java Client.java
+
+# start rmiregistry. Need to go to dir with classes ->
+cd destDir
+rmiregistry &
+
+# start server
+java Server &
+
+# start client
+
+java Client
+
+
+----> input
