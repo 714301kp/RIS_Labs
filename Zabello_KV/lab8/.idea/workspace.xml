@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c60c9a7f-c454-4f2f-aa4f-6cda86ce69ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lab8" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bh1MkjDlu6ib4GiVucJJs5tAq4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/zabello" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zabello.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zabello.enums" />
+      <recent name="com.zabello.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.updateUserInDbById">
+    <configuration name="AppTest.addUserInDbById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zabello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zabello" />
+      <option name="MAIN_CLASS_NAME" value="com.zabello.AppTest" />
+      <option name="METHOD_NAME" value="addUserInDbById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.addUsersToDb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zabello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zabello" />
+      <option name="MAIN_CLASS_NAME" value="com.zabello.AppTest" />
+      <option name="METHOD_NAME" value="addUsersToDb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.deleteUserFromDb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zabello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zabello" />
+      <option name="MAIN_CLASS_NAME" value="com.zabello.AppTest" />
+      <option name="METHOD_NAME" value="deleteUserFromDb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.fromDbTOFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zabello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zabello" />
+      <option name="MAIN_CLASS_NAME" value="com.zabello.AppTest" />
+      <option name="METHOD_NAME" value="fromDbTOFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.updateUserInDbById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zabello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zabello" />
+      <option name="MAIN_CLASS_NAME" value="com.zabello.AppTest" />
+      <option name="METHOD_NAME" value="updateUserInDbById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.updateUserInDbById" />
+        <item itemvalue="JUnit.AppTest.addUserInDbById" />
+        <item itemvalue="JUnit.AppTest.addUsersToDb" />
+        <item itemvalue="JUnit.AppTest.fromDbTOFile" />
+        <item itemvalue="JUnit.AppTest.deleteUserFromDb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c60c9a7f-c454-4f2f-aa4f-6cda86ce69ea" name="Default Changelist" comment="" />
+      <created>1589069465306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589069465306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1590481606699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590481606699" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590481954390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1590481954390" />
+    <state x="414" y="198" width="595" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590362286443">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="414" y="198" width="595" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1590362286443" />
+    <state x="481" y="76" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1590453976045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="481" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590453976045" />
+    <state x="524" y="104" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1590367197539" />
+    <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590453789984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1590453789984" />
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590452878365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1590452878365" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590368965984">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1590368965984" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590481599336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590481599336" />
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom" timestamp="1590493552180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590493552180" />
+    <state width="1253" height="219" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590373684070" />
+    <state width="1323" height="273" key="GridCell.Tab.0.center" timestamp="1590493552179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590493552179" />
+    <state width="1253" height="219" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1590373684070" />
+    <state width="1323" height="273" key="GridCell.Tab.0.left" timestamp="1590493552177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590493552177" />
+    <state width="1253" height="219" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1590373684069" />
+    <state width="1323" height="273" key="GridCell.Tab.0.right" timestamp="1590493552179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590493552179" />
+    <state width="1253" height="219" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1590373684070" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1590373684072">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590373684072" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1590373684071">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1590373684071" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1590373684071">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1590373684071" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1590373684071">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1590373684071" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1590480905929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1590480905929" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1590481308563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590481308563" />
+    <state x="67" y="100" width="1289" height="592" key="new project wizard" timestamp="1589311709214">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="100" width="1289" height="592" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1589311709214" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1590369405593">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1590369405593" />
+  </component>
+</project>

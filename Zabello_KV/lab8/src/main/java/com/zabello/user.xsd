@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="users" type="Users" />
+  <xs:complexType name="Users">
+    <xs:sequence>
+      <xs:element name="user" type="User" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:simpleType name="city" final="restriction">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Brest"/>
+      <xs:enumeration value="Minsk"/>
+      <xs:enumeration value="Mogilev"/>
+      <xs:enumeration value="Vitebsk"/>
+      <xs:enumeration value="Homel"/>
+      <xs:enumeration value="Hrodno"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="User">
+    <xs:sequence>
+      <xs:element name="id" type="xs:long" />
+      <xs:element name="first_name" type="xs:string" />
+      <xs:element name="middle_name" type="xs:string" />
+      <xs:element name="last_name" type="xs:string" />
+      <xs:element name="date_of_birth" type="xs:date" />
+      <xs:element name="passport_series" type="xs:string" />
+      <xs:element name="passport_number" type="xs:string" />
+      <xs:element name="city" type="city" />
+      <xs:element name="address" type="xs:string" />
+      <xs:element name="phone_number" type="xs:string" />
+      <xs:element name="email" type="xs:string" />
+      <xs:element name="employment" type="xs:boolean" />
+      <xs:element name="job_position" type="xs:string" />
+      <xs:element name="place_of_residence" type="xs:string" />
+      <xs:element name="citizenship" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
